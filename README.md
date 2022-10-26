@@ -1,3 +1,4 @@
-Hello All this is first push to github!
 
-# First-push-pull
+added second commit
+
+Hello All this is first push to github!
